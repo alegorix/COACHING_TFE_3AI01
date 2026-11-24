@@ -72,7 +72,7 @@ Le jury évalue votre travail selon **4 grands critères** :
 | **1. Qualité formelle du dossier** | Avant l'oral | **/ 80** | Présence de tous les éléments demandés, concision (30 pts) ; cohérence objectifs/résultats (30 pts) ; mise en page claire et attractive (20 pts). |
 | **2. Qualité du contenu** | Avant l'oral | **/ 120** | Appropriation et personnalisation du projet (30 pts) ; rigueur et respect du périmètre (30 pts) ; capacité de concrétisation (30 pts) ; pertinence des choix techniques (30 pts). |
 | **3. Maîtrise de la mise en œuvre** | Pendant l'oral | **/ 80** | Qualité de l'interface et du fonctionnement de l'application (30 pts) ; maîtrise des étapes de réalisation (30 pts) ; respect de la déontologie et de l'éthique, ex. RGPD (20 pts). |
-| **4. Qualité de la présentation orale**] | Pendant l'oral | **/ 120** | Présentation synthétique et claire (20 pts) ; développement judicieux de points technologiques (40 pts) ; respect du timing de 15 min (20 pts) ; pertinence des réponses aux questions (40 pts). |
+| **4. Qualité de la présentation orale** | Pendant l'oral | **/ 120** | Présentation synthétique et claire (20 pts) ; développement judicieux de points technologiques (40 pts) ; respect du timing de 15 min (20 pts) ; pertinence des réponses aux questions (40 pts). |
 
 ---
 
