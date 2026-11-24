@@ -81,3 +81,4 @@ Le jury évalue votre travail selon **4 grands critères** :
 - [ ] Rédiger une courte note d'intention (contexte, public cible, fonctionnalités clés).
 - [ ] Faire valider le sujet lors de la première séance de coaching.
 - [ ] Initialiser le dépôt Git du projet et structurer la documentation dès le début.
+- [ ] 2 exemplaires + le TFE complet sur clé usb
